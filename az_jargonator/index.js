@@ -49,6 +49,7 @@ verb =  [
 "Monitoring",
 "Operationalizing",
 "Partnering",
+"Picking the Low-Hanging Fruits of",
 "Prioritizing",
 "Producing",
 "Promoting",
