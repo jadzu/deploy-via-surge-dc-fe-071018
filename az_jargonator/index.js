@@ -82,6 +82,7 @@ modifier =  [
 "Blockchain",
 "Carbon Sequestration",
 "Climate",
+"Climate-Smart",
 "Coastal",
 "Community-Based",
 "Community-Driven",
