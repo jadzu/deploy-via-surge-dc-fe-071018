@@ -83,6 +83,7 @@ modifier =  [
 "Carbon Sequestration",
 "Climate",
 "Coastal",
+"Community-Based",
 "Community-Driven",
 "Core",
 "Cost-Effective",
